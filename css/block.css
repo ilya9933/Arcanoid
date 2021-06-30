@@ -1,0 +1,16 @@
+.block {
+  width: 20%;
+  height: 100%;
+}
+
+.block_green {
+  background: green;
+}
+
+.block_gold {
+  background: gold;
+}
+
+.block_red {
+  background: red;
+}

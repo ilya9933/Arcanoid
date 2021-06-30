@@ -1,0 +1,29 @@
+body {
+  font-family: "Big Shoulders Stencil Display", cursive;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  color: antiquewhite;
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+  margin: 30%;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  font-size: 100px;
+  margin-bottom: 100px;
+}
+
+.pul {
+  background: white;
+  position: absolute;
+  width: 0.5%;
+  height: 1%;
+}
